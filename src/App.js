@@ -3,7 +3,7 @@ import './App.css';
 import Cards from './Cards.js'
 import Navbar from './Navbar.js'
 import Home from './Home.js'
-import Contact from './Contanct.js'
+import Contact from './Contact.js'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 
